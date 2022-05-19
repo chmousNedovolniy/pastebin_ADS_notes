@@ -10,7 +10,7 @@ DSBA ADS seminar's materials, previously updated in pastebin
 - Trie structure [Advanced_cpp](cppTrieAdvanced.cpp) [Decerialization_cpp](cppTrieDeserialization.cpp)
 - AhoCorasic algo [cpp](cppAhoCorasicTrie.cpp)
 - Z-function_task [cpp](cppFindAllOccurences.cpp)
-- DFS (Depth-First Search) [cpp](DFS (depth-Firts Search).cpp)
+- DFS (Depth-First Search) [cpp](DFS.cpp)
 - Graph_t_shirts_task [cpp](T-shirts.cpp)
 
 
