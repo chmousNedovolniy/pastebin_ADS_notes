@@ -12,5 +12,4 @@ DSBA ADS seminar's materials, previously updated in pastebin
 - Z-function_task [cpp](cppFindAllOccurences.cpp)
 - DFS (Depth-First Search) [cpp](DFS.cpp)
 - Graph_t_shirts_task [cpp](T-shirts.cpp)
-
-
+- Greedy algorithms: [3d_printer.cpp](3d_printer.cpp) [Repeaters.cpp](Repeaters.cpp)
